@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright (C) 2010 Cyril Mottier (http://www.cyrilmottier.com)
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<resources>
+    
+    <string name="app_name">GET Memo</string>
+    
+    <string name="record_button_description">Enregistrer</string>
+    <string name="take_picture_button_description">Prendre une photo</string>
+    <string name="home_button_description">Lanceur d\'applications</string>
+    
+    <string name="no_memo">Aucun memo</string>
+    <string name="no_way_to_take_photo">Appareil photo absent</string>
+    
+    <string name="wait">Veuillez patienter ...</string>
+    <string name="ready_for_speech">En cours d\'écoute ...</string>
+    <string name="loading">Chargement ...</string>
+    <string name="error_occured_try_again">Une erreur est survenue. Merci de réessayer plus tard</string>
+    
+    <string name="date_format">dd MMM yyyy k:mm</string>
+</resources>
